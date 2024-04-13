@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tips With Mk</string>
+    <string name="art_tip_1">Tip 1</string>
+    <string name="art_tip_2">Tip 2</string>
+    <string name="art_tip_3">Tip 3</string>
+    <string name="art_tip_4">Tip 4</string>
+    <string name="art_tip_5">Tip 5</string>
+    <string name="art_tip_6">Tip 6</string>
+    <string name="art_tip_7">Tip 7</string>
+    <string name="tip_name_1">Create Art You Enjoy</string>
+    <string name="tip_name_2">Be Comfortable with Mistakes</string>
+    <string name="tip_name_3">Learn from Real World</string>
+    <string name="tip_name_4">Steal Ideas Not Art</string>
+    <string name="tip_name_5">Learn From the Best</string>
+    <string name="tip_name_6">Practice a LOT</string>
+    <string name="tip_name_7">Compare yourself to yourself</string>
+    <string name="art_tip_description_1">If you are not doing something you love, what is the point? I believe enjoying what you create is going to allow improvement at a much more rapid pace.</string>
+    <string name="art_tip_description_2">I would be the first one to understand what it is like to be a perfectionist, but it just is not a realistic expectation of yourself. Allow yourself to make mistakes- you can always learn from them later.</string>
+    <string name="art_tip_description_3">The world is the best teacher when it comes to art. Looking at real references of humans, animals, scenery, and more will be the most accurate.</string>
+    <string name="art_tip_description_4">Find a bunch of art that you really like and study them. Find parts of each that you really like and try to incorporate it into your own work without tracing or copying.</string>
+    <string name="art_tip_description_5">There are plenty of professional artists that post their work online. Find ones you like and learn how they draw.</string>
+    <string name="art_tip_description_6">At the end of the day the only way to truly get better is to sit down and draw. Draw as much or as little as you like, but a consistent effort is important to improve.</string>
+    <string name="art_tip_description_7">There will always be someone better than you, so do not compare yourself to others. Only compare yourself to yourself and the past artwork you have made.</string>
+</resources>
